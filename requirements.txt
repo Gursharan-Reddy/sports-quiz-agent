@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+chromadb>=0.4.22
+ddgs
+google-genai
+python-dotenv>=1.0.1
+sentence-transformers>=2.3.0

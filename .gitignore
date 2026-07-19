@@ -1,0 +1,10 @@
+# Security
+.env
+
+# Environments
+venv/
+__pycache__/
+
+# Databases and Caches
+chroma_db/
+.cache/
